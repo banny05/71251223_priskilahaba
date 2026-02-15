@@ -1,4 +1,4 @@
-x = int(input("x = "))
-fungsi_x = 2*x**3 + 2*x + 15/x
-
-print("f(x) = ",fungsi_x)
+tinggi = float(input("Tinggi(cm) : "))
+bmi = float(input("BMI yang diharapkan : "))
+berat = (tinggi/100)**2 * bmi
+print (f"Berat yang diperlukan {round(berat,1)} kg")
