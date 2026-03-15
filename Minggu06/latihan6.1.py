@@ -6,3 +6,4 @@ def perkalian(p,r):
 p = int(input())
 r = int(input())
 print (perkalian(p,r))
+

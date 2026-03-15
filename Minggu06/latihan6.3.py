@@ -24,5 +24,3 @@ def ips():
     ips = total_bobot / total_sks
     print(f"Nilai IPS anda semester ini {ips:.2f}")
 ips()
-
-
