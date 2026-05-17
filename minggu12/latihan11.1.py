@@ -7,3 +7,4 @@ item = 1
 for key in dictionary:
     print(f"{key:<10} {dictionary[key]:<10} {item}")
     item += 1
+    
